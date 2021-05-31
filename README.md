@@ -1,6 +1,8 @@
 ##PA Lab 13
 
 #Compulsory(1p)
+
+
 #Team: Avasiloae Alexandra + Petrescu Bianca
 ```
 
@@ -50,7 +52,7 @@ All the locale-sensitive information should be translated in at least two langua
     Currency: RON (Romanian Leu)
     Week Days: duminică, luni, marţi, miercuri, joi, vineri, sâmbătă
     Months: ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie, decembrie
-    Today: May 31, 2021 (31 mai 2021)
+    Today: May 30, 2021 (30 mai 2021)
     
     setlocale fr FR
     info
@@ -59,7 +61,7 @@ All the locale-sensitive information should be translated in at least two langua
     Currency: EUR (euro)
     Week Days: dimanche, lundi, mardi, mercredi, jeudi, vendredi, samedi
     Months: janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre
-    Today: May 31, 2021 (31 mai 2021)
+    Today: May 30, 2021 (30 mai 2021)
     
         
     display locales
