@@ -14,6 +14,7 @@ public class LocalExplorer {
         DisplayLocales displayLocales = new DisplayLocales();
         SetLocale setLocale = new SetLocale();
 
+        //the commands are read from the keyboard
         Scanner scanner = new Scanner(System.in);
         String input;
 
